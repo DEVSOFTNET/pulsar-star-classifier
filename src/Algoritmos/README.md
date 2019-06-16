@@ -1,7 +1,14 @@
-Resultados de la implementación de los algoritmos
+# Resultados de la implementación de los algoritmos
+
 En esta carpeta se encontrará la implementación de los diferentes algoritmos de aprendizaje automático aplicado al conjunto de datos HTRU2.
 
-Los algoritmos que el grupo ha implementado son los siguientes: - Árbol de decisión - Bosque aleatorio - Regresión logística - Maquina de soporte vectorial - Red Neuronal
+Los algoritmos que el grupo ha implementado son los siguientes: 
+
+- Árbol de decisión
+- Bosque aleatorio
+- Regresión logística
+- Maquina de soporte vectorial
+- Red Neuronal
 
 También se ha reproducido la implementación de Yixuan Zhou, el cual implementó un algoritmo KNN para el mismo conjunto de datos.
 
